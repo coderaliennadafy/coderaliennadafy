@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?coderaliennadafy=coderaliennadafy&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderaliennadafy&layout=compact&theme=vision-friendly-dark)
 <h1 align="center">Hi 👋, I'm Ali Ennadafy</h1>
 
 - 🎓 I'm currently studying **Artificial Intelligence**
