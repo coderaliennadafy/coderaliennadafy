@@ -1,4 +1,44 @@
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=ALI%20ENNADAFY&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaySreelesh/my-repo-icons/master/gif-icons/hacker.gif" width="200" />
+</p>
+
+<h2 align="center">🌌 SYSTEM STATUS: OPERATIONAL</h2>
+
+<p align="center">
+  <a href="https://github.com/coderaliennadafy">
+    <img src="https://github-readme-stats.vercel.app/api?username=coderaliennadafy&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's Stats" />
+  </a>
+  <a href="https://github.com/coderaliennadafy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaliennadafy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🚀 MISSION OBJECTIVES
+- 🧪 **Research Area:** Artificial Intelligence & Neural Networks
+- 🛰️ **Current Orbit:** Learning C++ & Python for problem solving
+- 🛠️ **Tech Stack:** <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+
+---
+
+### 📈 ACTIVITY RADAR
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderaliennadafy&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 </p><h1 align="center">Hi 👋, I'm Ali Ennadafy</h1>
 
 - 🎓 I'm currently studying **Artificial Intelligence**
