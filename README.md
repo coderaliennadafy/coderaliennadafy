@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
 </p><h1 align="center">Hi 👋, I'm Ali Ennadafy</h1>
 
 - 🎓 I'm currently studying **Artificial Intelligence**
