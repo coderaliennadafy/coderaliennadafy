@@ -3,35 +3,32 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI+Student+%7C+Problem+Solver;Build+Intelligence%2C+One+Line+at+a+Time;Learning+%7C+Creating+%7C+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI+Student+%7C+Problem+Solver;Building+Intelligence%2C+One+Line+at+a+Time;Learning+%7C+Creating+%7C+Innovating" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding" />
 </p>
 
 ---
 
 ## 🧬 About Me
 ```python
-class AIEngineer:
+class AIStudent:
     def __init__(self):
         self.name = "Ali Ennadafy"
-        self.role = "AI Engineering Student"
+        self.role = "AI Student"
         self.location = "Morocco 🇲🇦"
-        self.languages = ["Python", "C", "SQL"]
+        self.languages = ["Python", "SQL"]
         self.current_focus = [
             "Artificial Intelligence",
-            "Machine Learning",
             "Problem Solving & Algorithms",
-            "Data Science & Analytics"
+            "Analytics"
         ]
         self.learning = ["Linear Algebra", "Statistics", "Probability"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent together 🤖")
-
-me = AIEngineer()
+        print("Thanks for dropping by! Let's build something intelligent together")
 me.say_hi()
 ```
 
@@ -101,20 +98,20 @@ me.say_hi()
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/><br/>
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100"/><br/>
       <b>Machine Learning</b>
     </td>
     <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/><br/>
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100"/><br/>
       <b>Computer Vision</b>
     </td>
     <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/><br/>
-      <b>NLP</b>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100"/><br/>
+      <b>Data Science</b>
     </td>
     <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/><br/>
-      <b>Data Science</b>
+      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100" height="100"/><br/>
+      <b>Problem Solving</b>
     </td>
   </tr>
 </table>
