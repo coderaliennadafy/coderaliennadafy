@@ -13,7 +13,7 @@
 ---
 
 ## 🧬 About Me
-```python
+python
 class AIStudent:
     def __init__(self):
         self.name = "Ali Ennadafy"
@@ -30,7 +30,7 @@ class AIStudent:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something intelligent together")
 me.say_hi()
-```
+
 
 ---
 
