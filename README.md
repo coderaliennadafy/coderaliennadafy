@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student passionate about **Artificial Intelligence**
-- 📚 Currently learning **Python**, **C**, and **SQL**
+- 📚 Currently learning **Python**, and **SQL**
 - 🧮 Studying **Linear Algebra**, **Statistics**, and **Probability** for AI foundation
 - 💡 Solving algorithmic problems to sharpen my programming logic
 - 🎯 Goal: Build a strong foundation to become an AI Engineer
