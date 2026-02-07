@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 AI Student & Aspiring QA Automation Engineer | Leveraging AI for Intelligent Testing 
+- 🎓 AI Student | Learning QA Automation & Software Testing
 - 📚 Currently learning **Python**, **SQL**
 - 🧮 Studying **Linear Algebra**, **Statistics**, and **Probability** for AI foundation
 - 💡 Solving algorithmic problems to sharpen my programming logic
