@@ -8,11 +8,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Artificial Intelligence Student** first step **Applied Machine Learning / ML Practitioner**
+- 🎓 AI/ML Student | 💼 QA Automation Tester | 🤖 Building Intelligent Testing Solutions
 - 📚 Currently learning **Python**, **SQL**
 - 🧮 Studying **Linear Algebra**, **Statistics**, and **Probability** for AI foundation
 - 💡 Solving algorithmic problems to sharpen my programming logic
-- 🎯 Goal: Build a strong foundation to become an AI Engineer
 - 📧 Reach me: **aennadafy@gmail.com**
 
 ---
