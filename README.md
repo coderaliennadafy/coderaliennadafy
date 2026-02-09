@@ -51,14 +51,26 @@ my_goals = {
         "Master Python fundamentals",
         "Solve 50+ coding problems",
         "Complete SQL basics",
-        "Understand core math concepts"
+        "Learn Manual Software Testing fundamentals",
+        "Design test cases & bug reports",
+        "Understand SDLC & STLC basics"
     ],
+
+    "mid_term": [
+        "Learn QA Automation fundamentals",
+        "Automate test cases using Selenium and Playwright with Python",
+        "Practice API testing (Postman)",
+        "Build a QA testing portfolio on GitHub"
+    ],
+
     "long_term": [
         "Learn Machine Learning",
         "Build AI projects",
-        "Contribute to open source"
+        "Contribute to open source",
+        "Transition to SDET / QA Automation Engineer role"
     ]
 }
+
 ```
 
 ---
