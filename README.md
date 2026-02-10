@@ -92,6 +92,3 @@ my_goals = {
   <img src="https://komarev.com/ghpvc/?username=coderaliennadafy&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>"Learning is a journey, not a destination."</i>
-</p>
