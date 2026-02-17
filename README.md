@@ -10,6 +10,7 @@
 
 - 🎓 AI Student | Learning QA Automation & Software Testing
 - 📚 Currently learning **Python**, **SQL**
+- 📚  Currently learning testing manual QA 
 - 🧮 Studying **Linear Algebra**, **Statistics**, and **Probability** for AI foundation
 - 💡 Solving algorithmic problems to sharpen my programming logic
 - 📧 Reach me: **aennadafy@gmail.com**
