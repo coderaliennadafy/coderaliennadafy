@@ -1,95 +1,233 @@
-<h1 align="center">👋 Hi, I'm Ali Ennadafy</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Student;Learning+Python+%26SQL+" alt="Typing SVG" />
-</p>
+# 🌟 Ali Ennadafy
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Artificial+Intelligence+Student;QA+Engineer+%7C+Python+Developer;Building+the+Future+with+AI+%26+Quality" alt="Typing SVG" />
 
-## 👨‍💻 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=coderaliennadafy&color=00D9FF&style=for-the-badge)](https://github.com/coderaliennadafy)
 
-- 🎓 AI Student | Learning QA Automation & Software Testing
-- 📚 Currently learning **Python**, **SQL**
-- 📚  Currently learning testing manual QA 
-- 🧮 Studying **Linear Algebra**, **Statistics**, and **Probability** for AI foundation
-- 💡 Solving algorithmic problems to sharpen my programming logic
-- 📧 Reach me: **aennadafy@gmail.com**
+</div>
 
 ---
 
-## 🛠️ What I'm Learning
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 📐 Mathematics for AI
-- **Linear Algebra** - Vectors, Matrices, Transformations
-- **Statistics** - Probability, Distributions, Hypothesis Testing
-- **Calculus** - Derivatives, Optimization
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderaliennadafy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderaliennadafy&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎯 Current Focus
 ```python
-my_goals = {
-    "short_term": [
-        "Master Python fundamentals",
-        "Solve 50+ coding problems",
-        "Complete SQL basics",
-        "Learn Manual Software Testing fundamentals",
-        "Design test cases & bug reports",
-        "Understand SDLC & STLC basics"
-    ],
+class Ali:
+    def __init__(self):
+        self.role = "AI Student & Aspiring QA Automation Engineer"
+        self.location = "Morocco 🇲🇦"
+        self.education = "Artificial Intelligence"
+        self.current_focus = ["Python", "SQL", "QA Testing", "Data Structures"]
+        self.math_foundation = ["Linear Algebra", "Statistics", "Probability", "Calculus"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-    "mid_term": [
-        "Learn QA Automation fundamentals",
-        "Automate test cases using Selenium and Playwright with Python",
-        "Practice API testing (Postman)",
-        "Build a QA testing portfolio on GitHub"
-    ],
+me = Ali()
+me.say_hi()
+```
 
-    "long_term": [
-        "Learn Machine Learning",
-        "Build AI projects",
-        "Contribute to open source",
-        "Transition to SDET / QA Automation Engineer role"
-    ]
-}
+<div align="center">
 
+### 💡 What Drives Me
+
+> *"Quality is not an act, it is a habit."* - Aristotle
+
+I'm passionate about **Artificial Intelligence** and **Software Quality**. My journey combines the analytical rigor of AI with the precision of QA testing, aiming to build intelligent systems that are both powerful and reliable.
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderaliennadafy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaliennadafy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderaliennadafy&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderaliennadafy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Learning Roadmap
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 Short Term (2024)
+- ✅ Python Fundamentals
+- 🔄 Solve 100+ Coding Problems
+- 🔄 SQL Mastery
+- 🔄 Manual Testing (SDLC/STLC)
+- 📝 Test Cases & Bug Reports
+- 🧮 Linear Algebra & Statistics
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 Mid Term (2025)
+- 🔄 QA Automation (Selenium/Playwright)
+- 🔄 API Testing (Postman/REST)
+- 🔄 CI/CD Integration
+- 📊 Data Structures & Algorithms
+- 🤖 Introduction to ML
+- 💼 Build Testing Portfolio
+
+</td>
+<td width="33%" valign="top">
+
+### 🌟 Long Term (2026+)
+- 🎯 Machine Learning & Deep Learning
+- 🤖 AI Project Development
+- 🌐 Open Source Contributions
+- 👨‍💻 SDET/QA Automation Engineer
+- 📚 Continuous Learning
+- 🏆 Professional Certifications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📐 Mathematical Foundation for AI
+
+<div align="center">
+
+| Domain | Topics | Status |
+|--------|--------|--------|
+| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 🔄 Learning |
+| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 Learning |
+| 🧮 **Calculus** | Derivatives, Optimization, Gradient Descent | 🔄 Learning |
+| 🎲 **Probability Theory** | Bayesian Inference, Random Variables | 📝 Planned |
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+```diff
++ 💻 Mastered Python basics and OOP concepts
++ 🔍 Learning QA methodologies and testing frameworks
++ 📚 Building strong mathematical foundation for AI
++ 🧩 Solving algorithmic challenges daily
++ 🎯 Committed to continuous learning and growth
+```
+
+</div>
+
+---
+
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+### 🔥 Current Streak
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderaliennadafy&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderaliennadafy&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/coderaliennadafy/YOUR_REPO_NAME)
+
+*More projects coming soon...*
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-aennadafy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aennadafy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-coderaliennadafy-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderaliennadafy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Thought of the Day
+
+*"The best way to predict the future is to invent it."* - Alan Kay
+
+### ⚡ Fun Fact
+
+```python
+while alive:
+    eat()
+    sleep()
+    code()
+    test()
+    learn()
+    repeat()
 ```
 
 ---
 
-## 📫 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
 
-<p align="center">
-  <a href="mailto:aennadafy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/coderaliennadafy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Thanks for visiting! Happy Coding! 🚀**
 
----
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderaliennadafy&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
-
+</div>
