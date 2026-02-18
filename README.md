@@ -16,8 +16,8 @@ class Ali:
         self.role = "AI Student & Aspiring QA Automation Engineer"
         self.location = "Morocco 🇲🇦"
         self.education = "Artificial Intelligence"
-        self.current_focus = ["Python", "SQL", "QA Testing", "Data Structures"]
-        self.math_foundation = ["Linear Algebra", "Statistics", "Probability", "Calculus"]
+        self.current_focus = ["Python", "SQL", "QA Testing Manual"]
+        self.math_foundation = ["Linear Algebra", "Statistics", "Probability"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
