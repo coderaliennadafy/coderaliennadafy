@@ -2,7 +2,7 @@
 
 # 🌟 Ali Ennadafy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Artificial+Intelligence+Student;QA+Engineer student%7C+Python+Developer;Building+the+Future+with+AI+%26+Quality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Artificial+Intelligence+Student;Aspiring+QA+Engineer+%7C+Python+Developer;Building+the+Future+with+AI+%26+Quality" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=coderaliennadafy&color=00D9FF&style=for-the-badge)](https://github.com/coderaliennadafy)
 
@@ -88,35 +88,34 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 <tr>
 <td width="33%" valign="top">
 
-### 🚀 Short Term (2026)
+### 🚀 Short Term (2025 - 2026)
 - ✅ Python Fundamentals
-- 🔄 certification freecodecamp
 - 🔄 Solve 100+ Coding Problems
 - 🔄 SQL Mastery
 - 🔄 Manual Testing
-- 🔄Test Cases & Bug Reports
+- 🔄 Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎓 Mid Term (2026)
-- 🔄 QA Automation (Selenium/Playwright/)
-- 🔄 API Testing (Postman/REST)
-- 🔄 ETL
-- 🔄 CI/CD Integration
-- 🔄 Machine Learning & Deep Learning
-- 📊 Data Structures & Algorithms
-- 💼 Build Testing Portfolio
+- 📝 QA Automation (Selenium/Playwright)
+- 📝 Machine Learning & Deep Learning
+- 📝 ETL
+- 📝 API Testing (Postman/REST)
+- 📝 CI/CD Integration
+- 🔄 Build Testing Portfolio
 
 </td>
 <td width="33%" valign="top">
 
-### 🌟 Long Term (2027)
-- 🤖 AI Project Development
-- 🌐 Open Source Contributions
-- 👨‍💻 SDET/QA Automation Engineer
-- 📚 Continuous Learning
+### 🌟 Long Term (2026+)
+- 📝 AI Project Development
+- 📝 Open Source Contributions
+- 📝 SDET/QA Automation Engineer
+- 📝 Continuous Learning
+
 </td>
 </tr>
 </table>
@@ -129,10 +128,10 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 | Domain | Topics | Status |
 |--------|--------|--------|
-| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 🔄 Learning |
-| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 Learning |
-| 🧮 **Calculus** | Derivatives, Optimization, Gradient Descent | 🔄 Learning |
-| 🎲 **Probability Theory** | Bayesian Inference, Random Variables | 🔄 Learning |
+| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 📝 Planned |
+| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 📝 Planned |
+| 🧮 **Calculus** | Derivatives, Optimization, Gradient Descent | 📝 Planned |
+| 🎲 **Probability Theory** | Bayesian Inference, Random Variables | 📝 Planned |
 
 </div>
 
@@ -144,7 +143,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ```diff
 + 💻 Mastered Python basics and OOP concepts
-+ 🔍 Learning QA methodologies and testing Manual (test plan & test cases & bug reports)
++ 🔍 Learning QA methodologies and testing Manual 
 + 📚 Building strong mathematical foundation for AI
 + 🧩 Solving algorithmic challenges daily
 + 🎯 Committed to continuous learning and growth
@@ -230,3 +229,4 @@ while alive:
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
+
