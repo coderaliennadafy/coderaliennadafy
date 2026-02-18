@@ -88,36 +88,35 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 <tr>
 <td width="33%" valign="top">
 
-### 🚀 Short Term (2024)
+### 🚀 Short Term (2026)
 - ✅ Python Fundamentals
+- 🔄 certification freecodecamp
 - 🔄 Solve 100+ Coding Problems
 - 🔄 SQL Mastery
-- 🔄 Manual Testing (SDLC/STLC)
-- 📝 Test Cases & Bug Reports
-- 🧮 Linear Algebra & Statistics
+- 🔄 Manual Testing
+- 🔄Test Cases & Bug Reports
+- 🔄 Linear Algebra & Statistics
 
 </td>
 <td width="33%" valign="top">
 
-### 🎓 Mid Term (2025)
-- 🔄 QA Automation (Selenium/Playwright)
+### 🎓 Mid Term (2026)
+- 🔄 QA Automation (Selenium/Playwright/)
 - 🔄 API Testing (Postman/REST)
+- 🔄 ETL
 - 🔄 CI/CD Integration
+- 🔄 Machine Learning & Deep Learning
 - 📊 Data Structures & Algorithms
-- 🤖 Introduction to ML
 - 💼 Build Testing Portfolio
 
 </td>
 <td width="33%" valign="top">
 
-### 🌟 Long Term (2026+)
-- 🎯 Machine Learning & Deep Learning
+### 🌟 Long Term (2027)
 - 🤖 AI Project Development
 - 🌐 Open Source Contributions
 - 👨‍💻 SDET/QA Automation Engineer
 - 📚 Continuous Learning
-- 🏆 Professional Certifications
-
 </td>
 </tr>
 </table>
@@ -133,7 +132,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 | 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 🔄 Learning |
 | 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 Learning |
 | 🧮 **Calculus** | Derivatives, Optimization, Gradient Descent | 🔄 Learning |
-| 🎲 **Probability Theory** | Bayesian Inference, Random Variables | 📝 Planned |
+| 🎲 **Probability Theory** | Bayesian Inference, Random Variables | 🔄 Learning |
 
 </div>
 
