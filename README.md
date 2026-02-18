@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Artificial+Intelligence+Student;Aspiring+QA+Engineer+%7C+Python+Developer;Building+the+Future+with+AI+%26+Quality" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=coderaliennadafy&color=00D9FF&style=for-the-badge)](https://github.com/coderaliennadafy)
-
 </div>
 
 ---
