@@ -144,7 +144,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ```diff
 + 💻 Mastered Python basics and OOP concepts
-+ 🔍 Learning QA methodologies and testing frameworks
++ 🔍 Learning QA methodologies and testing Manual (test plan & test cases & bug reports)
 + 📚 Building strong mathematical foundation for AI
 + 🧩 Solving algorithmic challenges daily
 + 🎯 Committed to continuous learning and growth
