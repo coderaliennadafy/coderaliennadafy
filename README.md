@@ -126,10 +126,9 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 | Domain | Topics | Status |
 |--------|--------|--------|
-| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 📝 Planned |
-| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 📝 Planned |
-| 🧮 **Calculus** | Derivatives, Optimization, Gradient Descent | 📝 Planned |
-| 🎲 **Probability Theory** | Bayesian Inference, Random Variables | 📝 Planned |
+| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 🔄 |
+| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 |
+| 🎲 **Probability** | Bayesian Inference, Random Variables | 🔄 |
 
 </div>
 
