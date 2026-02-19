@@ -30,8 +30,6 @@ me.say_hi()
 
 ### 💡 What Drives Me
 
-> *"Quality is not an act, it is a habit."* - Aristotle
-
 I'm passionate about **Artificial Intelligence** and **Software Quality**. My journey combines the analytical rigor of AI with the precision of QA testing, aiming to build intelligent systems that are both powerful and reliable.
 
 </div>
@@ -171,8 +169,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderaliennadafy&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/coderaliennadafy/YOUR_REPO_NAME)
 
-*More projects coming soon...*
-
 </div>
 
 ---
@@ -201,10 +197,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 <div align="center">
 
-### 💭 Thought of the Day
-
-*"The best way to predict the future is to invent it."* - Alan Kay
-
 ##  Find Ali Ennadafy Online
 
 - GitHub: https://github.com/coderaliennadafy
@@ -213,8 +205,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
-
-**Thanks for visiting! Happy Coding! 🚀**
 
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
