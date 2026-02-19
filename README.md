@@ -205,19 +205,12 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 *"The best way to predict the future is to invent it."* - Alan Kay
 
-### ⚡ Fun Fact
+##  Find Ali Ennadafy Online
 
-```python
-while alive:
-    eat()
-    sleep()
-    code()
-    test()
-    learn()
-    repeat()
-```
+- GitHub: https://github.com/coderaliennadafy
+- LinkedIn: [(ضع الرابط الحقيقي هنا)](https://www.linkedin.com/in/ali-ennadafy-ab16331a8/)
+- Email: aennadafy@gmail.com
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
 
