@@ -167,7 +167,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 </div>
 
----
 
 ## 💬 Random Dev Quote
 
