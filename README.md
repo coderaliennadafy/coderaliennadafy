@@ -84,7 +84,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 <tr>
 <td width="33%" valign="top">
 
-### 🚀 Short Term (2025 - 2026)
+###  Short Term (2025 - 2026)
 - ✅ Python Fundamentals
 - 🔄 Solve 100+ Coding Problems
 - 🔄 SQL Mastery
@@ -95,10 +95,10 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 </td>
 <td width="33%" valign="top">
 
-### 🎓 Mid Term (2026)
+###  Mid Term (2026)
 - 📝 QA Automation (Selenium/Playwright)
-- 📝 Machine Learning & Deep Learning
-- 📝 ETL
+- 🔄 Machine Learning & Deep Learning
+- 🔄 ETL
 - 📝 API Testing (Postman/REST)
 - 📝 CI/CD Integration
 - 🔄 Build Testing Portfolio
@@ -106,7 +106,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 </td>
 <td width="33%" valign="top">
 
-### 🌟 Long Term (2026+)
+###  Long Term (2026+)
 - 📝 AI Project Development
 - 📝 Open Source Contributions
 - 📝 SDET/QA Automation Engineer
