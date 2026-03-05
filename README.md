@@ -99,8 +99,10 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - 📝 QA Automation (Selenium/Playwright)
 - 🔄 Machine Learning & Deep Learning
 - 🔄 ETL
-- 📝 API Testing (Postman/REST)
+- 📝 API Testing (Postman)
 - 📝 CI/CD Integration
+- 📝 CI/CD Pipeline(Jenkins)
+- 📝 Containers(Docker)
 - 🔄 Build Testing Portfolio
 
 </td>
