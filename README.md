@@ -91,24 +91,30 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - 🔄 Manual Testing
 - 🔄 Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
+- 📝 Agile/Scrum
+- 🔄 SDLC & STLC
 
 </td>
 <td width="33%" valign="top">
 
-###  Mid Term (2026)
+###  Mid Term (2026 - 2027)
 - 📝 QA Automation (Selenium/Playwright)
 - 🔄 Machine Learning & Deep Learning
 - 🔄 ETL
 - 📝 API Testing (Postman)
+- 📝 API Automation
+- 📝 Mobile Testing(Appium)
 - 📝 CI/CD Integration
 - 📝 CI/CD Pipeline(Jenkins)
 - 📝 Containers(Docker)
+- 📝 Performance Testing(JMeter, K6)
+- 📝 Metrics (CPU, RAM, Response Time).
 - 🔄 Build Testing Portfolio
 
 </td>
 <td width="33%" valign="top">
 
-###  Long Term (2026+)
+###  Long Term (2027+)
 - 📝 AI Project Development
 - 📝 Open Source Contributions
 - 📝 SDET/QA Automation Engineer
