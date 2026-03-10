@@ -147,15 +147,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderaliennadafy&theme=tokyonight)
 
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
