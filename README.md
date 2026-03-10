@@ -158,7 +158,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ##  Find Ali Ennadafy Online
 
-- GitHub: https://github.com/coderaliennadafy
 - LinkedIn: https://www.linkedin.com/in/ali-ennadafy-ab16331a8/
 - Email: aennadafy@gmail.com
 
