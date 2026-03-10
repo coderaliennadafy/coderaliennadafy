@@ -136,26 +136,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 | 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 |
 | 🎲 **Probability** | Bayesian Inference, Random Variables | 🔄 |
 
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-```diff
-+ 💻 Mastered Python basics and OOP concepts
-+ 🔍 Learning QA methodologies and testing Manual 
-+ 📚 Building strong mathematical foundation for AI
-+ 🧩 Solving algorithmic challenges daily
-+ 🎯 Committed to continuous learning and growth
-```
-
-</div>
-
----
-
 ## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
