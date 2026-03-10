@@ -135,13 +135,6 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 | 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 🔄 |
 | 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 |
 | 🎲 **Probability** | Bayesian Inference, Random Variables | 🔄 |
-
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
   
 ### 🔥 Current Streak
 
@@ -149,7 +142,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
