@@ -28,7 +28,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💡 What Drives Me
+###  What Drives Me
 
 I'm passionate about **Artificial Intelligence** and **Software Quality**. My journey combines the analytical rigor of AI with the precision of QA testing, aiming to build intelligent systems that are both powerful and reliable.
 
@@ -126,7 +126,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ---
 
-## 📐 Mathematical Foundation for AI
+##  Mathematical Foundation for AI
 
 <div align="center">
 
@@ -136,7 +136,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 | 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 |
 | 🎲 **Probability** | Bayesian Inference, Random Variables | 🔄 |
   
-### 🔥 Current Streak
+###  Current Streak
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderaliennadafy&theme=tokyonight)
 
