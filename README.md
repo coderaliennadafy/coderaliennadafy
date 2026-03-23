@@ -88,11 +88,11 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - ✅ Python Fundamentals
 - 🔄 Solve 100+ Coding Problems
 - 🔄 SQL Mastery
-- 🔄 Manual Testing
-- 🔄 Test Cases & Bug Reports
+- ✅ Manual Testing
+- ✅ Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
 - 📝 Agile/Scrum
-- 🔄 SDLC & STLC
+- ✅SDLC & STLC
 
 </td>
 <td width="33%" valign="top">
@@ -101,13 +101,13 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - 📝 QA Automation (Selenium/Playwright)
 - 🔄 Machine Learning & Deep Learning
 - 🔄 ETL
-- 📝 API Testing (Postman)
+- 🔄 API Testing (Postman)
 - 📝 API Automation
 - 📝 Mobile Testing(Appium)
-- 📝 CI/CD Integration
+- 🔄 CI/CD Integration
 - 📝 CI/CD Pipeline(Jenkins)
 - 📝 Containers(Docker)
-- 📝 Performance Testing(JMeter, K6)
+- 🔄 Performance Testing(JMeter, K6)
 - 📝 Metrics (CPU, RAM, Response Time).
 - 🔄 Build Testing Portfolio
 
