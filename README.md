@@ -106,7 +106,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD Integration
 - 📝 CI/CD Pipeline(Jenkins)
-- 📝 reporting Allure
+- 📝 Reporting Allure
 - 📝 Karate
 - 📝 Containers(Docker)
 - 🔄 Performance Testing(JMeter, K6)
