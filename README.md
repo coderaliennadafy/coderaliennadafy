@@ -13,14 +13,14 @@
 ```python
 class Ali:
     def __init__(self):
-        self.role = "AI Student & Aspiring QA Automation Engineer"
+        self.role = "AI Student &  Manual QA Engineer"
         self.location = "Morocco 🇲🇦"
-        self.education = "Artificial Intelligence"
-        self.current_focus = ["Python", "SQL", "QA Testing Manual"]
+        self.education = "Artificial Intelligence & testing software"
+        self.current_focus = ["Python", "SQL", "QA Automation and api testing"]
         self.math_foundation = ["Linear Algebra", "Statistics", "Probability"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by! Let's build something amazing together ")
 
 me = Ali()
 me.say_hi()
