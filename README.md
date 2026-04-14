@@ -2,7 +2,7 @@
 
 #  Ali Ennadafy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Manual+QA+Engineer;API+Testing+%7C+Python+Fundamentals;Learning+AI+%26+Machine+Learning+Basics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Tester;API+Testing+%7C+Python+Fundamentals;Learning+AI+%26+Machine+Learning+Basics" alt="Typing SVG" />
 
 ---
 
