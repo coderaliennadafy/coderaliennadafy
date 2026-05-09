@@ -88,7 +88,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - ✅ Manual Testing
 - ✅ Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
-- 📝 Agile/Scrum
+- 🔄 Agile/Scrum
 - ✅SDLC & STLC
 
 </td>
