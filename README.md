@@ -84,8 +84,7 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 
 ###  Short Term (2025 - 2026)
 - ✅ Python Fundamentals
-- 🔄 Solve 100+ Coding Problems
-- 🔄 SQL Mastery
+- 🔄 SQL basic
 - ✅ Manual Testing
 - ✅ Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
@@ -100,13 +99,13 @@ I'm passionate about **Artificial Intelligence** and **Software Quality**. My jo
 - 🔄 Machine Learning & Deep Learning
 - 🔄 ETL
 - 🔄 API Testing (Postman)
-- 📝 API Automation
+- 🔄 API Automation
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD Integration
-- 📝 CI/CD Pipeline(Jenkins)
+- 🔄 CI/CD Pipeline(Jenkins)
 - 📝 Reporting Allure
 - 📝 Karate
-- 📝 Containers(Docker)
+- 🔄 Containers(Docker)
 - 🔄 Performance Testing(JMeter, K6)
 - 📝 Metrics (CPU, RAM, Response Time).
 - 🔄 Build Testing Portfolio
