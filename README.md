@@ -28,7 +28,7 @@ me.say_hi()
 
 ###  What Drives Me
 
-I'm passionate about **Artificial Intelligence** and **Software Quality**. My journey combines the analytical rigor of AI with the precision of QA testing, aiming to build intelligent systems that are both powerful and reliable.
+I'm a software tester and i'm passionate about **Artificial Intelligence** . My journey combines the analytical rigor of AI with the precision of QA testing, aiming to build intelligent systems that are both powerful and reliable.
 
 </div>
 
