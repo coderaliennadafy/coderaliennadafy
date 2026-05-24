@@ -88,7 +88,7 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 - ✅ Manual Testing
 - ✅ Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
-- 🔄 Agile/Scrum
+- ✅ Agile/Scrum
 - ✅SDLC & STLC
 
 </td>
