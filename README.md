@@ -98,7 +98,7 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 - 📝 QA Automation (Selenium/Playwright)
 - 🔄 Machine Learning & Deep Learning
 - 🔄 ETL
-- 🔄 API Testing (Postman)
+- ✅ API Testing (Postman)
 - 🔄 API Automation
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD Integration
