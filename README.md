@@ -11,10 +11,10 @@
 ```python
 class Ali:
     def __init__(self):
-        self.role = "AI Student &  Manual QA Engineer"
+        self.role = "AI Student & Software Tester at Applause"
         self.location = "Morocco 🇲🇦"
-        self.education = "Artificial Intelligence & testing software"
-        self.current_focus = ["Python", "SQL", "QA Automation and api testing"]
+        self.education = "Artificial Intelligence "
+        self.current_focus = ["Python", "SQL", "QA Automation"]
         self.math_foundation = ["Linear Algebra", "Statistics", "Probability"]
         
     def say_hi(self):
