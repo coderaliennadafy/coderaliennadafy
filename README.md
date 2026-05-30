@@ -95,7 +95,7 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 <td width="33%" valign="top">
 
 ###  Mid Term (2026 - 2027)
-- 📝 QA Automation (Selenium/Playwright)
+- 📝 QA Automation (Playwright)
 - 🔄 Machine Learning & Deep Learning
 - 🔄 ETL
 - ✅ API Testing (Postman)
