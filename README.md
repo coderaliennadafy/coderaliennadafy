@@ -84,7 +84,7 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 
 ###  Short Term (2025 - 2026)
 - ✅ Python Fundamentals
-- 🔄 SQL basic
+- ✅ SQL basic
 - ✅ Manual Testing
 - ✅ Test Cases & Bug Reports
 - 🔄 Linear Algebra & Statistics
