@@ -131,9 +131,9 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 
 | Domain | Topics | Status |
 |--------|--------|--------|
-| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | 🔄 |
-| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | 🔄 |
-| 🎲 **Probability** | Bayesian Inference, Random Variables | 🔄 |
+| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | ✅ |
+| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | ✅ |
+| 🎲 **Probability** | Bayesian Inference, Random Variables | ✅ |
   
 ###  Current Streak
 
