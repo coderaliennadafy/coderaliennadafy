@@ -96,7 +96,8 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 
 ###  Mid Term (2026 - 2027)
 - 📝 QA Automation (Playwright)
-- ✅ API Testing (Postman)
+- ✅ API Testing (Postman,Charles Proxy,ADB Logcat,browser developer tools)
+- 📝 AI Testing
 - 🔄 API Automation
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD Integration
