@@ -87,17 +87,15 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 - ✅ SQL basic
 - ✅ Manual Testing
 - ✅ Test Cases & Bug Reports
-- 🔄 Linear Algebra & Statistics
+- ✅ Linear Algebra & Statistics
 - ✅ Agile/Scrum
-- ✅SDLC & STLC
+- ✅ SDLC & STLC
 
 </td>
 <td width="33%" valign="top">
 
 ###  Mid Term (2026 - 2027)
 - 📝 QA Automation (Playwright)
-- 🔄 Machine Learning & Deep Learning
-- 🔄 ETL
 - ✅ API Testing (Postman)
 - 🔄 API Automation
 - 📝 Mobile Testing(Appium)
@@ -114,8 +112,6 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 <td width="33%" valign="top">
 
 ###  Long Term (2027+)
-- 📝 AI Project Development
-- 📝 Open Source Contributions
 - 📝 SDET/QA Automation Engineer
 - 📝 Continuous Learning
 
