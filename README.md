@@ -44,7 +44,6 @@ I'm a software tester and i'm passionate about **Artificial Intelligence** . My 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Testing & QA
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
