@@ -81,7 +81,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 <tr>
 <td width="33%" valign="top">
 
-###  Short Term (2025 - 2026)
+###  Short Term (2026)
 - ✅ Python Fundamentals
 - ✅ SQL basic
 - ✅ Manual Testing
