@@ -11,7 +11,7 @@
 ```python
 class Ali:
     def __init__(self):
-        self.role = "AI Student & Software Tester at Applause"
+        self.role = "Software Tester | QA Automation Learner"
         self.location = "Morocco 🇲🇦"
         self.education = "Artificial Intelligence "
         self.current_focus = ["Python", "SQL", "QA Automation"]
