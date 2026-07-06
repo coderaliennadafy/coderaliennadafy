@@ -114,6 +114,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 ###  Long Term (2027+)
 - 📝 SDET/QA Automation Engineer
 - 📝 Continuous Learning
+- 📝 AI-assisted Test Automation
 
 </td>
 </tr>
