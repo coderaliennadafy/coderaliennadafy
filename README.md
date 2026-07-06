@@ -28,7 +28,8 @@ me.say_hi()
 
 ###  What Drives Me
 
-I'm a Software Tester passionate about building reliable and maintainable test automation solutions. I'm currently improving my skills in Javascript , API Automation, while exploring AI and Machine Learning fundamentals.
+I'm a Software Tester passionate about building reliable and maintainable test automation solutions. I'm currently improving my skills in JavaScript and API Automation while exploring the fundamentals of Artificial Intelligence and Machine Learning.
+
 </div>
 
 ---
