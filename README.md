@@ -121,17 +121,6 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 </table>
 
 ---
-
-##  Mathematical Foundation for AI
-
-<div align="center">
-
-| Domain | Topics | Status |
-|--------|--------|--------|
-| 📊 **Linear Algebra** | Vectors, Matrices, Transformations, Eigenvalues | ✅ |
-| 📈 **Statistics** | Probability, Distributions, Hypothesis Testing | ✅ |
-| 🎲 **Probability** | Bayesian Inference, Random Variables | ✅ |
-  
 ###  Current Streak
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderaliennadafy&theme=tokyonight)
