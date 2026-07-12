@@ -90,16 +90,16 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - ✅ Agile/Scrum
 - ✅ SDLC & STLC
 - 🔄 API Automation
-
+- 
 </td>
 <td width="33%" valign="top">
 
 ###  Mid Term (2026 - 2027)
+- 🔄 JavaScript / TypeScript (Advanced for QA)
 - 📝 QA Automation (Playwright)
 - 📝 AI Testing
 - 📝 Mobile Testing(Appium)
-- 🔄 CI/CD Integration
-- 🔄 CI/CD Pipeline(Jenkins)
+- 🔄 CI/CD (GitHub Actions + Jenkins)
 - 📝 Reporting Allure
 - 📝 Karate
 - 🔄 Containers(Docker)
