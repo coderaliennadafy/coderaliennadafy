@@ -86,18 +86,17 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - ✅ SQL basic
 - ✅ Manual Testing
 - ✅ Test Cases & Bug Reports
-- ✅ Linear Algebra & Statistics
+- ✅ API Testing (Postman,Charles Proxy,ADB Logcat,browser developer tools)
 - ✅ Agile/Scrum
 - ✅ SDLC & STLC
+- 🔄 API Automation
 
 </td>
 <td width="33%" valign="top">
 
 ###  Mid Term (2026 - 2027)
 - 📝 QA Automation (Playwright)
-- ✅ API Testing (Postman,Charles Proxy,ADB Logcat,browser developer tools)
 - 📝 AI Testing
-- 🔄 API Automation
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD Integration
 - 🔄 CI/CD Pipeline(Jenkins)
