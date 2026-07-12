@@ -103,7 +103,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - 📝 Reporting Allure
 - 📝 Karate
 - 🔄 Containers(Docker)
-- 🔄 Performance Testing(JMeter, K6)
+- 🔄 Performance Testing(K6,JMeter)
 - 📝 Metrics (CPU, RAM, Response Time).
 - 🔄 Build Testing Portfolio
 
