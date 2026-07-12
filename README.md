@@ -97,14 +97,14 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 ###  Mid Term (2026 - 2027)
 - 🔄 JavaScript / TypeScript (Advanced for QA)
 - 📝 QA Automation (Playwright)
-- 📝 AI Testing
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD (GitHub Actions + Jenkins)
 - 📝 Reporting Allure
-- 📝 Karate
 - 🔄 Containers(Docker)
 - 🔄 Performance Testing(K6,JMeter)
 - 📝 Performance Metrics (Response Time, Throughput, Error Rate, CPU, RAM)
+- 📝 AI Testing
+- 📝 Karate
 - 🔄 Build Testing Portfolio
 
 </td>
