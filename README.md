@@ -104,7 +104,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - 📝 Karate
 - 🔄 Containers(Docker)
 - 🔄 Performance Testing(K6,JMeter)
-- 📝 Metrics (CPU, RAM, Response Time).
+- 📝 Performance Metrics (Response Time, Throughput, Error Rate, CPU, RAM)
 - 🔄 Build Testing Portfolio
 
 </td>
