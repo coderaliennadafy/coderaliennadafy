@@ -105,7 +105,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - 📝 Performance Metrics (Response Time, Throughput, Error Rate, CPU, RAM)
 - 📝 AI Testing
 - 📝 Karate
-- 🔄 Build Testing Portfolio
+- 🔄 Professional QA Portfolio
 
 </td>
 <td width="33%" valign="top">
