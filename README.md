@@ -90,7 +90,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - ✅ Agile/Scrum
 - ✅ SDLC & STLC
 - 🔄 API Automation
-- 
+
 </td>
 <td width="33%" valign="top">
 
