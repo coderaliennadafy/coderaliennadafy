@@ -13,7 +13,7 @@ class Ali:
     def __init__(self):
         self.role = "Software Tester | QA Automation Learner"
         self.location = "Morocco 🇲🇦"
-        self.education = "Artificial Intelligence "
+        self.education = "QA Automation"
         self.current_focus = ["JavaScript", "QA Automation","API Testing","API automation"]
 
         
