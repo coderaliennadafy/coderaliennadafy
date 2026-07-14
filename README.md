@@ -14,7 +14,7 @@ class Ali:
         self.role = "Software Tester | QA Automation Learner"
         self.location = "Morocco 🇲🇦"
         self.education = "Artificial Intelligence "
-        self.current_focus = ["Python", "QA Automation","API Testing",Api automation]
+        self.current_focus = ["Python", "QA Automation","API Testing","Api automation"]
 
         
     def say_hi(self):
