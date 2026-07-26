@@ -89,7 +89,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 - ✅ API Testing (Postman,Charles Proxy,ADB Logcat,browser developer tools)
 - ✅ Agile/Scrum
 - ✅ SDLC & STLC
-- 🔄 API Automation
+- ✅ API Automation
 
 </td>
 <td width="33%" valign="top">
