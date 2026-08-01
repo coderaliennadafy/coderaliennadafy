@@ -96,7 +96,7 @@ I'm a Software Tester passionate about building reliable and maintainable test a
 
 ###  Mid Term (2026 - 2027)
 - 🔄 JavaScript / TypeScript (Advanced for QA)
-- 📝 QA Automation (Playwright)
+- 🔄 QA Automation (Playwright)
 - 📝 Mobile Testing(Appium)
 - 🔄 CI/CD (GitHub Actions + Jenkins)
 - 📝 Reporting Allure
