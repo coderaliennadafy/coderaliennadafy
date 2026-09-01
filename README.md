@@ -8,21 +8,17 @@
 
 ## About Me
 
-```python
-class Ali:
-    def __init__(self):
-        self.role = "Software Tester | QA Automation Learner"
-        self.location = "Morocco 🇲🇦"
-        self.education = "QA Automation"
-        self.current_focus = ["JavaScript", "QA Automation","API Testing","API automation"]
+I'm a Software Test Engineer focused on building reliable and maintainable QA automation solutions.
 
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together ")
+My focus is on:
+- Manual & Exploratory Testing
+- API Testing & Automation
+- UI Automation with Playwright
+- JavaScript / TypeScript
+- Test Design & Automation Architecture
+- CI/CD and scalable test frameworks
 
-me = Ali()
-me.say_hi()
-```
+I'm continuously improving my skills in modern software testing and quality engineering.
 
 <div align="center">
 
