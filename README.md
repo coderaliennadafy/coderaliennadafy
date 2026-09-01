@@ -22,7 +22,11 @@ I'm continuously improving my skills in modern software testing and quality engi
 
 ###  What Drives Me
 
-I'm a Software Tester passionate about building reliable and maintainable test automation solutions. I'm currently improving my skills in JavaScript and API Automation while exploring the fundamentals of Artificial Intelligence and Deep learning.
+## What Drives Me
+
+I'm a Software Test Engineer passionate about building reliable, maintainable, and scalable test automation solutions.
+
+I focus on improving software quality through effective test design, API and UI automation, automation architecture, CI/CD, and continuous quality improvement.
 
 </div>
 
