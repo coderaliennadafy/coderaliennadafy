@@ -9,12 +9,12 @@
 I'm a Software Test Engineer focused on building reliable and maintainable QA automation solutions.
 
 My focus is on:
- Manual & Exploratory Testing
- API Testing & Automation
- UI Automation with Playwright
- JavaScript
- Test Design & Automation Architecture
- CI/CD and scalable test frameworks
+- Manual & Exploratory Testing
+- API Testing & Automation
+- UI Automation with Playwright
+- JavaScript / TypeScript
+- Test Design & Automation Architecture
+- CI/CD and scalable test frameworks
 
 I'm continuously improving my skills in modern software testing and quality engineering.
 
