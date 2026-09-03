@@ -20,7 +20,6 @@ I'm continuously improving my skills in modern software testing and quality engi
 
 <div align="center">
 
-###  What Drives Me
 
 ## What Drives Me
 
